@@ -1,7 +1,7 @@
 ### Hi, I'm Dallas!
 
 - 🖥️ I've been coding in Python and C primarily.
-- ⌨️ I'm addicted to using Neovim
+- ⌨️ I'm addicted to using Neovim ([current config](https://github.com/dallasmeyer/nvim))
 - 🏆 I'm a 1st place CruzHacks Hackathon (Justice Hack) winner of [tuitionshock.us](http:tuitionshock.us) ([devpost](https://devpost.com/software/tuition-shock)) 
 
 <!--
