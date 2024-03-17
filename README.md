@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Dallas!
+
+- 🖥️ I've been coding in Python and C primarily.
+- ⌨️ I'm addicted to using Neovim
+- 🏆 I'm a 1st place CruzHacks Hackathon (Justice Hack) winner of [tuitionshock.us](http:tuitionshock.us) ([devpost](devpost.com/software/tuition-shock)) 
 
 <!--
 **dallasmeyer/dallasmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
